@@ -28,6 +28,7 @@ The application uses an O(1) mathematical formula to determine your status insta
   2. If Current % < Target % (Danger)
 
 ## 📸 Screenshots
-  
+  https://github.com/Sanchita-InLoop/Bunk-Manager/blob/main/Screenshot%202026-01-19%20221931.png
+  https://github.com/Sanchita-InLoop/Bunk-Manager/blob/main/ss1.jpeg
 
 - Built with ❤️ (and a fear of 75% attendance) by Sanchita
